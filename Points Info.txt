@@ -1,0 +1,15 @@
+100000  :RM        42 :       Monica Bellucci  :      998899
+100001  :RM        42 :    Scarlett Johansson  :      112233
+100002  :RM        42 :          Kate Winslet  :      223322
+100003  :RM         0 :     Jennifer Lawrence  :      114433
+100004  :RM        27 :       Natalie Portman  :      992211
+100005  :RM         0 :            Emma Stone  :      110092
+100006  :RM         0 :             Eva Green  :      882211
+100007  :RM        48 :           Johnny Depp  :      827372
+100008  :RM        25 :             Al Pacino  :      123456
+100009  :RM         0 :            Tom Cruise  :      197600
+100010  :RM         0 :         Dwayne Johnson :      928371
+100011  :RM         0 :    Sylvester Stallone  :      747382
+100012  :RM         0 :          Kate Winslet  :      238937
+100013  :RM         0 :        Morgan Freeman  :      389237
+100014  :RM         0 :          Hugh Jackman  :      372921

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1495318931 source:c:\users\ali haider doha\desktop\c or c++\rail management system\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1495645543 source:c:\users\ali haider doha\desktop\rail management system\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
